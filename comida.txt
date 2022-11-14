@@ -1,1 +1,24 @@
-tenho fome
+Ementas para 14/11/2022
+
+Crasto
+Almoço:
+
+Sopa: Sopa de coentros
+Prato Normal: Peru assado no forno e arroz
+Prato Opção: Lulas grelhadas com molho verde e batata cozida
+Prato Vegetariano: Caril de soja e arroz
+
+Santiago
+Jantar:
+
+Sopa: Sopa Juliana
+Prato Normal: Peru assado com alecrim e batata assada
+Prato Vegetariano: Lasanha com beringela
+
+Grelhado
+Almoço:
+
+Sopa: Creme de ervilhas
+Prato Carne: Bife de peru grelhado ou Entrecosto grelhado
+Prato Peixe: Perca à posta grelhada ou Peixe espada grelhado
+
